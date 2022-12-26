@@ -2,7 +2,7 @@
 
 It will help you to convert the written texts to voice/speech. T2S can take words on a computer or other digital device and convert them into audio.
 
-## Curious? [Take a look](#)
+## Curious? [Try it out!](https://priyanshupaul08.github.io/T2S-Converter/)
 
 ## What is Text to Speech?
 
